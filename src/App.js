@@ -23,7 +23,6 @@ function App() {
             <SearchPage/>
           </Route>
         </Switch>
-
         <Footer/>
       </Router>
     </div>

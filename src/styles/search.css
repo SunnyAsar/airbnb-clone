@@ -21,7 +21,7 @@
   padding: 20px;
   width: 539px;
   height: 30px;
-  top: 395px;
+  top: 375px;
   left: 0;
   border: none;
 }
@@ -32,7 +32,7 @@
 
 .search > button {
   position: absolute;
-  top: 450px;
+  top: 445px;
   left: 0;
   width: 580px;
   background-color:#ff7779;
