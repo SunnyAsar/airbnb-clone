@@ -1,0 +1,45 @@
+.banner{
+  position: relative;
+  height: 50vh;
+  background: url('https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/28/2017/08/funky-loft-studio-airbnb-rental-paris-france-AIRBNBPARIS0817.jpg') center center;
+}
+
+.banner__info{
+  background: black;
+  color: white;
+  width: 300px;
+  padding: 25vh 50px 50px 40px;
+  /* padding-top: 25vh;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 40px; */
+  
+}
+
+.banner__info > button{
+  background: #ff7779;
+  color: white;
+  text-transform: inherit;
+  font-weight: 600;
+  margin-top: 20px;
+}
+.banner__info > button:hover{
+  color: #ff7779;
+  background: white;
+}
+
+.banner__info > h5{
+  margin-top: 5px;
+}
+
+.banner__search{
+  display: flex;
+  flex-direction: column;
+}
+
+.bannerSearch__button{
+  color: #ff7779 !important;
+  font-weight: 900 !important;
+  background: white !important;
+  text-transform: inherit !important;
+}
