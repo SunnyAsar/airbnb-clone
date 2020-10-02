@@ -27,8 +27,10 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 `Clone the project and cd into the directory`
 
+run `npm start or yarn start`
+
 ### Usage
-open `localhost:**3000****** ` with a browser.
+open `localhost:3000 ` with a browser.
 
 
 ## Authors
