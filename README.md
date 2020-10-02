@@ -27,7 +27,14 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 `Clone the project and cd into the directory`
 
-run `npm start or yarn start`
+Install dependencies
+```zsh
+npm install  
+```
+run 
+```zsh 
+npm start or yarn start
+```
 
 ### Usage
 open `localhost:3000 ` with a browser.
