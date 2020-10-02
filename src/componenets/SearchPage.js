@@ -39,7 +39,18 @@ function SearchPage() {
 
       />
       <SearchResult
-        img='https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/28/2017/08/funky-loft-studio-airbnb-rental-paris-france-AIRBNBPARIS0817.jpg'
+        img='https://cdn-images-1.medium.com/max/1200/1*FcHnzcGdh8zLJldE1atFBA.jpeg'
+        location='In the heart of Lagos'
+        title='Chill comfy apartment'
+        description='2 guests . 1 Bed . 1 Bath . Wifi'
+        star={4.7}
+        price= '$60/night'
+        total='$ 120 Total'
+
+      />
+
+      <SearchResult
+        img='https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/05/02/101637563-airbnb.1910x1000.jpg'
         location='In the heart of Lagos'
         title='Chill comfy apartment'
         description='2 guests . 1 Bed . 1 Bath . Wifi'
